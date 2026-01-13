@@ -1,0 +1,4 @@
+../Core/Src/motor.cpp:5:1:kc::Motor::Motor(GPIO_TypeDef*, uint16_t, GPIO_TypeDef*, uint16_t, TIM_HandleTypeDef*, uint32_t)	1
+../Core/Src/motor.cpp:9:6:void kc::Motor::init()	4
+../Core/Src/motor.cpp:15:6:void kc::Motor::setSpeed(uint8_t)	5
+../Core/Src/motor.cpp:21:6:void kc::Motor::setDirection(Direction)	5

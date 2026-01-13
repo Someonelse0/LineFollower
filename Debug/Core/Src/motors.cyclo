@@ -1,0 +1,8 @@
+../Core/Src/motors.cpp:5:1:kc::Motors::Motors(kc::Motor&, kc::Motor&, GPIO_TypeDef*, uint16_t)	1
+../Core/Src/motors.cpp:8:6:void kc::Motors::init()	1
+../Core/Src/motors.cpp:19:6:void kc::Motors::run()	1
+../Core/Src/motors.cpp:24:6:void kc::Motors::block()	1
+../Core/Src/motors.cpp:29:6:void kc::Motors::forward()	1
+../Core/Src/motors.cpp:35:6:void kc::Motors::backward()	1
+../Core/Src/motors.cpp:41:6:void kc::Motors::brake()	1
+../Core/Src/motors.cpp:47:6:void kc::Motors::setSpeed(uint8_t, uint8_t)	1

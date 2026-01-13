@@ -1,0 +1,6 @@
+../Core/Src/sensors.cpp:5:1:kc::Sensors::Sensors(GPIO_TypeDef**, uint16_t*)	2
+../Core/Src/sensors.cpp:14:6:void kc::Sensors::init()	1
+../Core/Src/sensors.cpp:19:6:void kc::Sensors::gpio_to_input(GPIO_TypeDef*, uint16_t)	1
+../Core/Src/sensors.cpp:28:6:void kc::Sensors::gpio_to_output(GPIO_TypeDef*, uint16_t)	1
+../Core/Src/sensors.cpp:38:6:void kc::Sensors::readRaw(uint16_t*)	10
+../Core/Src/sensors.cpp:75:6:void kc::Sensors::read(uint8_t*)	3
